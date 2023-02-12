@@ -40,7 +40,7 @@ function Section1() {
                         </Container>
                     </Col>
                     <Col lg={6} className='text-center'>
-                        <img className='banner-img py-5' src='https://rainbowit.net/html/inbio/assets/images/slider/banner-01.png' alt='' />
+                        <img className='banner-img py-5 w-100' src='https://rainbowit.net/html/inbio/assets/images/slider/banner-01.png' alt='' />
                     </Col>
                 </Row>
             </Container>
