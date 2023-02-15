@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfo/static/css/main.9d0b4f30.css",
-    "main.js": "/Portfo/static/js/main.5499cc91.js",
+    "main.css": "/Portfo/static/css/main.cd93d54f.css",
+    "main.js": "/Portfo/static/js/main.816f2386.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfo/static/js/787.1ed0c42c.chunk.js",
-    "static/media/1.png": "/Portfo/static/media/1.f45578efb2b72d96c4ac.png",
     "index.html": "/Portfo/index.html",
-    "main.9d0b4f30.css.map": "/Portfo/static/css/main.9d0b4f30.css.map",
-    "main.5499cc91.js.map": "/Portfo/static/js/main.5499cc91.js.map",
+    "main.cd93d54f.css.map": "/Portfo/static/css/main.cd93d54f.css.map",
+    "main.816f2386.js.map": "/Portfo/static/js/main.816f2386.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfo/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d0b4f30.css",
-    "static/js/main.5499cc91.js"
+    "static/css/main.cd93d54f.css",
+    "static/js/main.816f2386.js"
   ]
 }
