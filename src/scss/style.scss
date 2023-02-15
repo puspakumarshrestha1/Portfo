@@ -3,6 +3,9 @@
 $brand: #FF014F;
 $w: white;
 $b: black;
+a{
+    text-decoration: none;
+}
 
 .btn{
     background-color: $brand;
@@ -140,7 +143,7 @@ span{
             font-weight: 500;
         }
         h3{
-            font-size: 62px;
+            font-size: 52px;
             font-weight: 600;
         }
         p{
@@ -149,6 +152,29 @@ span{
     }
 
 }
+
+
+//works
+.works{
+    h5{
+        font-size: 28px;
+        font-weight: 500;
+    }
+    h3{
+        font-size: 50px;
+        font-weight: 600;
+    }
+    p{
+        font-size: 22px;
+    }
+    .pro1{
+        h6{
+            font-size: 20px;
+        }
+    }
+}
+
+//services.js
 
 //skill.js
 .skill{
@@ -158,7 +184,7 @@ span{
             font-weight: 500;
         }
         h3{
-            font-size: 60px;
+            font-size: 50px;
             font-weight: 600;
         }
         p{
@@ -168,7 +194,7 @@ span{
 }
 //contact.js
 .contact{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/1.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://th.bing.com/th/id/R.6db9662347baf719e00c4fcb2a3542b0?rik=AnRDS6Bo%2fRpVWA&pid=ImgRaw&r=0&sres=1&sresct=1);
     background-attachment: fixed;
     .address{
         h6{
