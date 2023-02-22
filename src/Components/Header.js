@@ -4,11 +4,9 @@ import { Button, Container, Nav, Navbar, NavDropdown } from 'react-bootstrap'
 function Header() {
   return (
     <>
-    <Navbar bg="light" expand="lg">
+    <Navbar className='py-3' bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="#home">
-            <img src='https://rainbowit.net/html/inbio/assets/images/logo/logo-dark.png' alt=''/>
-        </Navbar.Brand>
+   
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto ">
