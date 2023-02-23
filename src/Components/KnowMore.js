@@ -14,8 +14,8 @@ function KnowMore() {
                 <Row>
                     <Col  lg={8} className='text-start py-5'>
                         <h3>I'm <span>Puspa Kumar Shrestha</span>, a Web Developer</h3>
-                        <p className='py-3'> I help you build brand for your business at an affordable price. Thousands of clients have procured exceptional results while working with our dedicated team. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <p> Delivering work within time and budget which meets client’s requirements is our moto. Lorem Ipsum has been the industry's standard dummy text ever when an unknown printer took a galley.</p>
+                        <p className='py-3'> Hello, I am Puspa Kumar Shrestha. I want to start a career as a Front-end/Web Designer.</p>
+                        <p>I can help you create a beautiful responsive and creative websites</p>
                     </Col>
                     <Col lg={4} className='text-start py-5 px-5'>
                         <h6>Name: Puspa Kumar Shrestha</h6><hr/>

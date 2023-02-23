@@ -6,12 +6,8 @@ function Footer() {
     <div className='bg-dark'>
       <Container className='text-light'>
         <Row>
-          <Col lg={6} className='my-3'>
-            <h5>Copyright © 2023 Puspa. All Rights Reserved.</h5>
-
-          </Col>
-          <Col lg={6} className='text-end my-3'>
-            <h5>Terms & Policy</h5>
+          <Col  className='my-3 text-center'>
+            <h5>Contact Me If You Want to Hire me</h5>
           </Col>
         </Row>
       </Container>

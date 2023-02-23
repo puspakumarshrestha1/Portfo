@@ -232,4 +232,8 @@ span {
 }
 .top .top-btn a {
   color: rgb(0, 0, 0) !important;
+}
+
+.owl-carousel {
+  display: block !important;
 }/*# sourceMappingURL=style.css.map */

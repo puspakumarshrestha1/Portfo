@@ -5,7 +5,7 @@ import img1 from "../img/1.jpg"
 function Section1() {
     return (
         <>
-            <Container id='home' className='py-4'>
+            <Container id='home'>
                 <Row>
                     <Col lg={6} className='m-auto  banner-text'>
                         <h6>WELCOME TO MY WORLD</h6>
